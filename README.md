@@ -1,4 +1,4 @@
-# Project 9 - Tableau - Hospital Data Visualization
+# Project 9: Tableau for Clinical Data Visualization
 
 **Author**: Aizhan Uteubayeva (NetID: au198)  
 **Published**: June 18, 2023
